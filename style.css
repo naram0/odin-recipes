@@ -1,0 +1,11 @@
+#title {
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace, sans-serif;
+}
+
+.list {
+    font-weight: bold;
+    color: yellow;
+}

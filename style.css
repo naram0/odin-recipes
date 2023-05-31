@@ -8,4 +8,15 @@
 .list {
     font-weight: bold;
     color: yellow;
+    font-family: monospace;
+}
+
+/* unvisited link */
+a:link {
+    color: yellow;
+}
+
+/* visited link */
+a:visited {
+    color: white;
 }

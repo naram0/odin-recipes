@@ -1,0 +1,38 @@
+#title {
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace, sans-serif;
+}
+
+* {
+    font-family: monospace, sans-serif;
+    color: yellow;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* unvisited link */
+a:link {
+    color: yellow;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #00ff51;
+  }

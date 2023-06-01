@@ -1,14 +1,41 @@
+.box {
+    box-sizing: border-box;
+}
+
 #title {
     color: yellow;
     font-weight: bold;
     text-align: center;
     font-family: monospace, sans-serif;
+    /* outline: 3px solid red; */
 }
 
 .list {
-    font-weight: bold;
+    /* font-weight: bold; */
     color: yellow;
-    font-family: monospace;
+    font-family: monospace, sans-serif;
+    /* outline: 3px solid red; */
+}
+
+.hamburger {
+    display: inline-block;
+    /* outline: 1px solid red; */
+    width: 20%;
+    margin: 20px 10px;
+}
+
+.teriyaki {
+    display: inline-block;
+    /* outline: 1px solid red; */
+    width: 35%;
+    margin: 20px 5px;
+}
+
+.chicken {
+    display: inline-block;
+    /* outline: 1px solid red; */
+    width: 25%;
+    margin: 20px 5px;
 }
 
 /* unvisited link */
@@ -18,7 +45,7 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: white;
+    color: crimson;
 }
 
 /* mouse over link */

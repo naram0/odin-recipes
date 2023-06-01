@@ -22,6 +22,8 @@
     /* outline: 1px solid red; */
     width: 20%;
     margin: 20px 10px;
+    position: relative;
+    top: 78px;
 }
 
 .teriyaki {
@@ -29,6 +31,11 @@
     /* outline: 1px solid red; */
     width: 35%;
     margin: 20px 5px;
+    position: relative;
+    top: 168px;
+    right: 15px;
+    bottom: 7px;
+    left: 156px;
 }
 
 .chicken {
@@ -36,6 +43,11 @@
     /* outline: 1px solid red; */
     width: 25%;
     margin: 20px 5px;
+    position: relative;
+    top: 348px;
+    right: 20px;
+    bottom: 5px;
+    left: 5px;
 }
 
 /* unvisited link */
